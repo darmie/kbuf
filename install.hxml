@@ -1,0 +1,5 @@
+-cmd haxelib install build-java.hxml --always 
+--next
+-cmd haxelib install build-cpp.hxml --always 
+--next
+-cmd haxelib install build-cs.hxml --always 

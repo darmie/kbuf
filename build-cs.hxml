@@ -1,0 +1,6 @@
+-main test.Main
+-cp src/
+-cp test/
+
+-lib Numerix
+-cs bin/kbuf/bin/Main.exe

@@ -1,0 +1,7 @@
+-main test.Main
+-cp src/
+-cp test/
+
+-lib Numerix
+
+-cpp bin/kbuf

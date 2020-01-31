@@ -1,0 +1,14 @@
+{
+  "name": "kbuf",
+  "url" : "https://github.com/YOUR_NAME/kbuf/",
+  "license": "MIT",
+  "tags": ["haxe","java","cpp","cs"],
+  "description": "description of kbuf",
+  "classPath": "src",
+  "version": "0.0.1",
+  "releasenote": "Initial release",
+  "contributors": ["YOUR_NAME"],
+  "dependencies": {
+
+  }
+}
